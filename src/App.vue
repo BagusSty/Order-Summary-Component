@@ -3,7 +3,7 @@
     <div class="max-w-sm w-80 sm:w-full bg-white shadow-lg rounded-lg">
       <img
         class="object-cover w-full rounded-t-lg"
-        :src="'public/images/illustration-hero.svg'"
+        :src="'images/illustration-hero.svg'"
         alt=""
       />
       <h1 class="text-center font-bold text-xl pt-3 text-darkBlue">
@@ -17,7 +17,7 @@
       </p>
       <div class="px-4">
         <div class="flex p-2 items-center bg-veryPaleBlue rounded-lg">
-          <img class="mr-4" :src="'public/images/icon-music.svg'" alt="" />
+          <img class="mr-4" :src="'images/icon-music.svg'" alt="" />
           <div class="flex-1">
             <p class="font-bold text-darkBlue">Annual Plan</p>
             <p class="text-desaturatedBlue">$59.99/year</p>
